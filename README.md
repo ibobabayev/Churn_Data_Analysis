@@ -1,1 +1,1 @@
-# Churn_Data_Analysis
+Analysis of Churn data with R programming language
